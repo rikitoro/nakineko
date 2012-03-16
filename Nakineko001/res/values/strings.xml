@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Nakineko!</string>
+    <string name="app_name">Nakineko</string>
+	<string name="menu_about">About</string>
+	<string name="menu_background">Background</string>
+	<string name="menu_quit">Quit</string>
+<string name="about_dialog_title">About Nakineko</string>
+<string name="about_dialog_message">A cute cat organ\nVoice: Mi-ke\nIllustration (Cute cats):\n @Akanerico\nIllustration (cardboard box):\n @rikitoro</string>
+<string name="background_dialog_title">Background Color List</string>
+</resources>
